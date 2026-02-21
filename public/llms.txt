@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את משחק הקלפים הדיגיטלי המרתק לבני נוער! אפליקציה יצירתית שמביאה חברים ביחד למשחקים חברתיים מלהיבים. הצטרפו עכשיו וחוו בידור אחר!
+
+### משחקים
+https://example.com/games
+מגוון משחקי קלפים דיגיטליים לקבוצות נוער! בחרו מבין משחקים אינטראקטיביים מלהיבים, שחקו עם חברים ותיהנו מחוויה חברתית בלתי נשכחת.
+
+### פרסים
+https://example.com/rewards
+צברו נקודות, פתחו הישגים וזכו בפרסים מדליקים! מערכת תגמולים ייחודית שהופכת כל משחק להרפתקה מרגשת. גלו מה מחכה לכם!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות או רעיונות? נשמח לשמוע מכם! צוות גלה קלף זמין לכל פניה, הצעה או בקשת תמיכה. דברו איתנו ונחזור אליכם במהירות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - גלה קלף
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - גלה קלף
+
+### Category
+https://example.com/category/:slug
+מוצרים - גלה קלף
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
